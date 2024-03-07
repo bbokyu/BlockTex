@@ -1,0 +1,12 @@
+Create Fraction myFraction
+Set myFraction.numerator <- 1
+Set myFraction.denominator <- 2
+
+Create Fraction secondFraction
+Set myFraction.numerator <- myFraction + myFraction
+Set myFraction.denominator <- 10 / 2
+
+Render myFraction
+Render secondFraction
+
+

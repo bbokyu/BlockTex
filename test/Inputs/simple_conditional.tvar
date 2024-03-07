@@ -1,0 +1,17 @@
+
+
+Create Matrix myMatrix
+Set myMatrix.shape <- (5, 5)
+
+Loop myMatrix {
+    if (Row == Col) {
+        This <- 69
+    } else {
+        This <- 1
+    }
+ }
+End
+
+Render myMatrix
+
+

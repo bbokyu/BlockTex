@@ -1,0 +1,14 @@
+Create Matrix myMatrix
+Set myMatrix.shape <- (5, 5)
+
+
+Loop myMatrix {
+    This <- Row * Col
+}
+End
+
+
+Render myMatrix
+
+
+

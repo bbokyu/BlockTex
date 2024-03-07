@@ -1,0 +1,6 @@
+Create SumNotation mySummation
+Set mySummation.start <- 1
+Set mySummation.end <- Inf
+Set mySummation.equation <- {2^{-n}}
+
+Render mySummation
