@@ -1,8 +1,0 @@
-Create Fraction myFraction
-Set myFraction.numerator <- 1
-Set myFraction.denominator <- 2
-
-
-Render myFraction
-
-

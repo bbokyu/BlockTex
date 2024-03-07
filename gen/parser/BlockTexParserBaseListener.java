@@ -1,4 +1,4 @@
-// Generated from /Users/bbokyu/Documents/Courses/Cpsc410/410Project/src/parser/BlockTexParser.g4 by ANTLR 4.13.1
+// Generated from /Users/bbokyu/Desktop/BlockTex/src/parser/BlockTexParser.g4 by ANTLR 4.13.1
 package parser;
 
 import org.antlr.v4.runtime.ParserRuleContext;

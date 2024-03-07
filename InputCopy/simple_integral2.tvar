@@ -1,8 +1,0 @@
-Create Latex myLatex <- "x^2"
-
-Create Integral myIntegral
-Set myIntegral.start <- 1
-Set myIntegral.end <- 2
-Set myIntegral.equation <- myLatex
-
-Render myIntegral

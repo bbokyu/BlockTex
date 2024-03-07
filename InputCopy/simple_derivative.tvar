@@ -1,7 +1,0 @@
-Create Derivative myDerivative
-Set myDerivative.type <- partial
-Set myDerivative.order <- 2
-Set myDerivative.targetVar <- x
-
-Render myDerivative
-
